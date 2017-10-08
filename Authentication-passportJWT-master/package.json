@@ -19,6 +19,6 @@
     "passport": "*",
     "passport-jwt": "*"
   },
-  "author": "Rahul Sharma",
+  "author": "Puppy & VSR",
   "license": "ISC"
 }
